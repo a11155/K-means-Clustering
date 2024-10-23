@@ -22,5 +22,5 @@ cd K-means-Clustering
   ```
 3. **Run the application using Streamlit**
   ```bash
-  streamlit run app.py
+  streamlit run main.py
   ```
